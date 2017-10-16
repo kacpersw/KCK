@@ -1,0 +1,6 @@
+C:\Users\Kacper\Desktop\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Kacper\Desktop\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\Kacper\Desktop\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Kacper\Desktop\CRUD\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Desktop\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\Kacper\Desktop\CRUD\CRUD\obj\Debug\CRUD.pdb
